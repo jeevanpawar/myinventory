@@ -1,0 +1,197 @@
+.tabpdf
+{
+
+	width:725px;
+}
+.tabpdf td
+{
+	font-size:14px;
+	text-align:center;
+	border:1px solid #EEE;
+}
+.r_details
+{
+	width:720px;
+	background-color:#FFF;
+	text-align:center;
+	height:10px;
+}
+.r_details td
+{
+	border:1px solid #CCC;
+	text-align:center;
+
+}
+
+.inv
+{
+	margin-top:20px;
+	text-align:center;
+	font-size:25px;
+	letter-spacing:2px;
+	font-weight:bold;
+	color:#000;
+	background-color:#EEE;
+	width:100%;
+}
+.invoice
+{
+	background-color:#ABABAB;
+}
+.add
+{
+	
+	width:100%;
+	height:120px;
+	margin-top:15px;
+
+}
+.add tr
+{
+	height:50px;
+	font-size:18px;
+	letter-spacing:1px;
+
+}
+.no
+{
+	width:200px;
+	margin-left:510px;
+	margin-top:-150px;
+	position:relative;
+}
+.detail table
+{
+	margin-top:5px;
+	width:725px;
+	color:#000;
+	text-align:center;
+}
+.detail table td
+{
+	border:1px solid #FFF;
+	background-color:#EEE;
+}
+.address
+{
+	font-size:12px;
+}
+.heading
+{
+	font-size:36px;
+	font-family:"MS Serif", "New York", serif;
+	text-decoration:underline;
+}
+.sub_heading
+{
+	font-size:20px;
+	font-family:"MS Serif", "New York", serif;
+}
+.quotation
+{
+	font-size:24px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.date
+{	
+	margin-left:80%;
+}
+.description ul
+{
+	border:1px solid #000; 
+}
+.description ul li
+{	
+	list-style:none;
+	display:inline;
+	padding:20px;
+}
+.report
+{
+	width:720px;
+	margin-top:15px;
+	border:1px solid #CCC;
+}
+.report td
+{
+	background-color:#EEE;
+	text-align:center;
+	height:25px;
+}
+.r_details
+{
+	width:720px;
+	background-color:#FFF;
+	text-align:center;
+	height:10px;
+}
+.r_details1
+{
+	width:720px;
+	background-color:#FFF;
+	text-align:center;
+	height:10px;
+}
+.r_details1 td
+{
+	border:1px solid #CCC;
+	text-align:center;
+
+}
+.description
+{
+	height:400px;
+	border:1px solid #CCC;
+}
+.description1
+{
+	border:1px solid #CCC;
+}
+.r_details td
+{
+	border:1px solid #CCC;
+	text-align:center;
+
+}
+
+.advance
+{
+	margin-top:10px;
+	width:625px;
+	margin-left:275px;
+}
+.advance td
+{
+	background-color:#EEE;
+	text-align:center;
+	height:50px;
+}
+.conditions
+{
+
+	background-color:#EEE;
+	text-align:justify;
+
+}
+.total
+{
+	width:720px;
+}
+.total td
+{
+	
+}
+
+.texta
+{
+	width:20px;
+
+	border:1px solid #000;
+}
+.tab
+{
+	margin-top:15px;
+	width:725px;
+	background-color:#EEE;
+}
